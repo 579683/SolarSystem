@@ -1,0 +1,15 @@
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\bin\Debug\WpfSolarSystem.exe.config
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\bin\Debug\WpfSolarSystem.exe
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\bin\Debug\WpfSolarSystem.pdb
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\SolarSystem.csprojAssemblyReference.cache
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\App.g.cs
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\WpfSolarSystem_MarkupCompile.cache
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\WpfSolarSystem_MarkupCompile.lref
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\MainWindow.baml
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\WpfSolarSystem.g.resources
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\WpfSolarSystem.Properties.Resources.resources
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.cache
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\WpfSolarSystem.exe
+C:\Users\Christopher\Koder\DAT154\Assignment3\Assignment3\WpfSolarSystem\obj\Debug\WpfSolarSystem.pdb
